@@ -21,6 +21,8 @@ We have trained a model in the RDD2022_India dataset provided. The model was not
 We have used a dataset that contains the 2.5K images of roads with potholes with annotations. We trained a YOLO5 model in google colab on the dataset mentioned here, as our PC/s dont meet the computational requirements. The dataset used in the project can be found here: [https://universe.roboflow.com/potholes-detection-zdxgw/pothole-jujbl](https://universe.roboflow.com/potholes-detection-zdxgw/pothole-jujbl)
 ## Model
 We used a YOLO5 model to detect the potholes in the images. We used the repository whose link is given below to build the model. After training we get weight file named best.pt 
+## Video Demo
+The video demo of how our project works can be seen here [https://drive.google.com/drive/u/0/folders/1bgX6ifN0pjCl3x54T6TJFiRlyXuqK0tr](https://drive.google.com/drive/u/0/folders/1bgX6ifN0pjCl3x54T6TJFiRlyXuqK0tr)
 ## Evaluation metrics
 model MAE(mean Average precission) is over 90%
 ## How to run the model
