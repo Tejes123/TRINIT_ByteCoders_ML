@@ -28,7 +28,8 @@ model MAE(mean Average precission) is over 90%
 ## How to run the model
 Only run detect.py to run the model.
 ## Reference
-1. (https://colab.research.google.com/drive/1vBKloRTjCoVwNIZLmxZxh_DPn-ja0_gG?usp=sharing)[https://colab.research.google.com/drive/1vBKloRTjCoVwNIZLmxZxh_DPn-ja0_gG?usp=sharing]
-2. (https://github.com/ultralytics/yolov5)[https://github.com/ultralytics/yolov5]
+1. [https://colab.research.google.com/drive/1vBKloRTjCoVwNIZLmxZxh_DPn-ja0_gG?usp=sharing](https://colab.research.google.com/drive/1vBKloRTjCoVwNIZLmxZxh_DPn-ja0_gG?usp=sharing)
+2. [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+3. Other sources in internet
 
 
