@@ -22,7 +22,7 @@ We have used a dataset that contains the 2.5K images of roads with potholes with
 ## Model
 We used a YOLO5 model to detect the potholes in the images. We used the repository whose link is given below to build the model. After training we get weight file named best.pt 
 ## Video Demo
-The video demo of how our project works can be seen here [https://drive.google.com/drive/u/0/folders/1bgX6ifN0pjCl3x54T6TJFiRlyXuqK0tr](https://drive.google.com/drive/u/0/folders/1bgX6ifN0pjCl3x54T6TJFiRlyXuqK0tr)
+The video demo of how our project works can be seen here [Video Link](https://drive.google.com/file/d/12UcH7yAfSLC51zBQ0DXfktxFyVDF2iT_/view)
 ## Evaluation metrics
 model MAE(mean Average precission) is over 90%
 ## How to run the model
