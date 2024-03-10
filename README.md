@@ -14,7 +14,7 @@ well-maintained road networks
 The dataset has images of roads with background. The model should
 involve object detection to capture only roads (using YOLO or R-CNN or
 their combination,etc.), followed by classifying the damaged roads
-![Image](/TriNIT_ByteCoders_ML/example.png)
+![Image](/example.png)
 ## Dataset
 We have trained a model in the RDD2022_India dataset provided. The model was not trained well on the datset and the annotations are not good. WE even used RDD2022_Japan to train another model, but we faced more computational power requirement. So we chose to use some custom datasets available
 ### Dataset Description
